@@ -1,6 +1,6 @@
 {
 	"name":"Urban3p",
-	"version": "0.2.1",
+	"version": "0.2.2",
 	"background_page": "background.html",
 	"description": "Показывает новые сообщения на сайте urban3p.ru",
 	"icons": {
